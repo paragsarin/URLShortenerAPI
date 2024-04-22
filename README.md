@@ -23,22 +23,3 @@ POST /shorten
 {
   "LongURL": "https://www.example.com/very/long/url"
 }
-
-##   Getting Started
-
-Clone this repository.
-Build and run the project in your development environment.
-Send POST requests to /shorten to shorten URLs.
-Dependencies
-ASP.NET Core
-Newtonsoft.Json
-##License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-##Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-##Contact
-For questions or support, please contact Parag Sarin.
-
-Thank you for checking out URLShortenerAPI! We hope you find it useful for your projects.
